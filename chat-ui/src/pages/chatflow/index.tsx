@@ -47,7 +47,7 @@ export function ChatFlow(): ReactElement {
                     <GridItem
                         as="aside"
                         colSpan={{base: 6, lg: 2, xl: 2}}
-                        bg="gray.50"
+                        bg="gray.900"
                         overflowY="scroll"
                         height={"100vh"}
                     >
